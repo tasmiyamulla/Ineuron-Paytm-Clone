@@ -2,7 +2,7 @@
 
 _by Tasmiya 💗_
 
-### 🔗*Live Link* -: [Paytm Clone]()
+### 🔗*Live Link* -: [Paytm Clone](https://tasmiya-paytm-clone.netlify.app)
 
 ![Paytm Clone](paytm-clone.png)
 
